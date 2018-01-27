@@ -3,8 +3,8 @@ title: Converge
 subtitle: Consulting
 email: hello@convergeconsulting.com
 description: Weaving technology through human experience
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "/converge-consulting.jp" # the subpath of your site, e.g. /blog
+url: "s3-ap-northeast-1.amazonaws.com" # the base hostname & protocol for your site
 author:
 street_address: 
 city: Meguro
